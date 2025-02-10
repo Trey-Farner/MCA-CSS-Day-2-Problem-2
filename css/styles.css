@@ -1,0 +1,17 @@
+body {
+    background-image: url("../kaladin\ stormblessed\ facing\ the\ parshendi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section {
+    background: linear-gradient(#ff538b, #8b53ff);
+    width: 400px;
+    background-size: cover;
+    display: inline-block;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
